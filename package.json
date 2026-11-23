@@ -1,0 +1,22 @@
+{
+  "name": "radeevich-ai-client-server",
+  "version": "1.0.0",
+  "description": "Full-stack Client-Server Telegram Mini App & Web platform with integrated real-time LLM AI Assistant",
+  "main": "api/bot.js",
+  "scripts": {
+    "start": "node serve.js",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "ai-developer",
+    "telegram-mini-app",
+    "groq",
+    "llm",
+    "serverless",
+    "client-server",
+    "qwen",
+    "ai-assistant"
+  ],
+  "author": "Yuri Radeevich",
+  "license": "MIT"
+}
