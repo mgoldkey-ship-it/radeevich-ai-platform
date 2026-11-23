@@ -2,7 +2,7 @@
 
 **Проект:** Клиент-серверная система Telegram Mini App & Web с real-time AI-ассистентом  
 **Автор:** Юрий Радеевич  
-**Стек инструментов:** AI Agent Architecture (Claude Code / Arena Agent / Cursor), Groq Inference Cloud, Node.js Serverless.
+**Стек инструментов:** AI Agent Architecture (Claude Code / Cursor), Groq Inference Cloud, Node.js Serverless.
 
 ---
 
